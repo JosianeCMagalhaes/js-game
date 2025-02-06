@@ -9,6 +9,6 @@
 Enquanto isso, confira outros projetos:  
 
 - **[Streaming de Música 🎵](https://github.com/JosianeCMagalhaes/streaming-de-musica)**
-- **[Portfólio 💼](https://github.com/JosianeCMagalhaes/Portfolio)**  
+- **[Portfólio 📁](https://github.com/JosianeCMagalhaes/Portfolio)**  
 
 Fique à vontade para explorar e contribuir! 🚀
