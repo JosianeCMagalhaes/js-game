@@ -35,7 +35,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## ✨ Projeto
 
-JS-Game é um projeto desenvolvido para explorar e aprimorar conhecimentos em desenvolvimento web, focado em:
+JS Game é um projeto desenvolvido para explorar e aprimorar conhecimentos em desenvolvimento web, focado em:
 
 - Interatividade com JavaScript.
 - Manipulação do DOM para criar efeitos dinâmicos.
