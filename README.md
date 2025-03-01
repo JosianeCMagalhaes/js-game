@@ -18,6 +18,8 @@
 
 ## 🎮 Como Jogar
 
+https://github.com/user-attachments/assets/5df12d27-5ceb-4a35-ba0c-9839bb6c62b0
+
 1. Insira um número no campo indicado.
 2. Siga as instruções na tela para descobrir se está perto ou longe da resposta correta.
 3. Continue tentando até acertar o número correto.
