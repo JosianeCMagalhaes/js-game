@@ -46,7 +46,7 @@ JS Game é um projeto desenvolvido para explorar e aprimorar conhecimentos em de
 
 Você pode acessar o jogo diretamente pelo link abaixo:
 
-👉 [JS-Game - Jogue Agora](#)
+👉 [JS-Game - Jogue Agora](https://josianecmagalhaes.github.io/js-game/)
 
 ## 👩🏻‍💻 Autora
 
